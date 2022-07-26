@@ -14,6 +14,7 @@
 		D7700B58288FCE6700590817 /* GCD.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D7700B56288FCE6700590817 /* GCD.xcdatamodeld */; };
 		D7700B5A288FCE6800590817 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7700B59288FCE6800590817 /* Assets.xcassets */; };
 		D7700B5D288FCE6800590817 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7700B5B288FCE6800590817 /* LaunchScreen.storyboard */; };
+		D7700B65288FD13800590817 /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7700B64288FD13800590817 /* SecondVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D7700B59288FCE6800590817 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D7700B5C288FCE6800590817 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D7700B5E288FCE6800590817 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D7700B64288FD13800590817 /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				D7700B4D288FCE6700590817 /* AppDelegate.swift */,
 				D7700B4F288FCE6700590817 /* SceneDelegate.swift */,
 				D7700B51288FCE6700590817 /* ViewController.swift */,
+				D7700B64288FD13800590817 /* SecondVC.swift */,
 				D7700B53288FCE6700590817 /* Main.storyboard */,
 				D7700B59288FCE6800590817 /* Assets.xcassets */,
 				D7700B5B288FCE6800590817 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D7700B52288FCE6700590817 /* ViewController.swift in Sources */,
+				D7700B65288FD13800590817 /* SecondVC.swift in Sources */,
 				D7700B4E288FCE6700590817 /* AppDelegate.swift in Sources */,
 				D7700B58288FCE6700590817 /* GCD.xcdatamodeld in Sources */,
 				D7700B50288FCE6700590817 /* SceneDelegate.swift in Sources */,
